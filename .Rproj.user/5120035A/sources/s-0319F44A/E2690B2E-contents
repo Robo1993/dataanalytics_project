@@ -21,8 +21,6 @@ knitr::opts_chunk$set(echo = F)
 library(lme4)
 library(ggplot2)
 
-ggplot(sleepstudy, aes(x = Days, y = Reaction, group = Subject, color = Subject)) +
-  geom_path() +
-  theme_minimal()
+sleepstudy
 
 ```
