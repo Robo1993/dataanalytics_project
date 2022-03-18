@@ -1,2 +1,2 @@
-# dataanalytics_project
-*Project for the Data Analytics Seminar from 2022*
+# Data Analytics Project
+***Project for the Data Analytics Seminar from 2022***
