@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-18T14:56:41+01:00"
+      "last_modified": "2022-03-18T14:59:50+01:00"
     },
     {
       "path": "index.html",
       "title": "Data Analytics Project",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\nknitr::opts_chunk$set(echo = T)\r\n\r\n# Learn more about creating websites with Distill at:\r\n# https://rstudio.github.io/distill/website.html\r\n\r\n# Learn more about publishing to GitHub Pages at:\r\n# https://rstudio.github.io/distill/publish_website.html#github-pages\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-18T14:56:42+01:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-18T14:59:50+01:00"
     }
   ],
   "collections": []
